@@ -72,8 +72,8 @@
          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
          <img src="https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=azure-web&logoColor=white" />
          <br>
-         <img src="https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=unix&logoColor=black" />
+         <img src="https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=bsd&logoColor=black" />
+         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
          <img src="https://img.shields.io/badge/SunOS-FCC624?style=for-the-badge&logo=oracle&logoColor=black" />
          <img src="https://img.shields.io/badge/Solaris-FCC624?style=for-the-badge&logo=oracle&logoColor=black" />
          <img src="https://img.shields.io/badge/HPuX-FCC624?style=for-the-badge&logo=hp&logoColor=black" />
