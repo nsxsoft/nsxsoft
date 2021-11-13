@@ -51,7 +51,7 @@
          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
          <img src="https://img.shields.io/badge/Redhat-CB3837?style=for-the-badge&logo=Redhat&logoColor=black" />
-         <img src="https://img.shields.io/badge/Ubuntu-CB3837?style=for-the-badge&logo=Ubuntu&logoColor=black" />
+         <img src="https://img.shields.io/badge/Ubuntu-FF6C37?style=for-the-badge&logo=Ubuntu&logoColor=black" />
          <br>
 <br>
 </div>
