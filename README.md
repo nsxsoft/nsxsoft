@@ -39,17 +39,21 @@
         <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
         <br>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Oracle-4EA94B?style=for-the-badge&logo=Oracle&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLServer-4EA94B?style=for-the-badge&logo=Microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-        <br>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
         <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" /><br>      
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+</div>
+<div align='left'>
+        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Databases</h2>
+  <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle-4EA94B?style=for-the-badge&logo=Oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLServer-4EA94B?style=for-the-badge&logo=Microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
+        <br>
 </div>
 <div align='left'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Operating Systems, Clustering and Cloud</h2>
