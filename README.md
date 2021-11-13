@@ -70,13 +70,14 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Operating Systems, Clustering and Cloud</h2>
   <br>
          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+         <img src="https://img.shields.io/badge/Azure-%23FF9900.svg?style=for-the-badge&logo=azure-web&logoColor=white" />
          <br>
          <img src="https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=unix&logoColor=black" />
          <img src="https://img.shields.io/badge/SunOS-FCC624?style=for-the-badge&logo=Sun&logoColor=black" />
          <img src="https://img.shields.io/badge/Solaris-FCC624?style=for-the-badge&logo=Sun&logoColor=black" />
-         <img src="https://img.shields.io/badge/HPuX-FCC624?style=for-the-badge&logo=hpux&logoColor=black" />
-         <img src="https://img.shields.io/badge/AIX-FCC624?style=for-the-badge&logo=aix&logoColor=black" />
+         <img src="https://img.shields.io/badge/HPuX-FCC624?style=for-the-badge&logo=hp&logoColor=black" />
+         <img src="https://img.shields.io/badge/AIX-FCC624?style=for-the-badge&logo=ibm&logoColor=black" />
          <br>
          <img src="https://img.shields.io/badge/Kubernetes-FF6C37?style=for-the-badge&logo=Kubernetes&logoColor=black" />
          <img src="https://img.shields.io/badge/OKD-FF6C37?style=for-the-badge&logo=Kubernetes&logoColor=black" />
