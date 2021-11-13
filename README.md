@@ -49,7 +49,8 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Operating Systems, Clustering and Cloud</h2>
   <br>
          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+         <img src="https://img.shields.io/badge/Redhat-FCC624?style=for-the-badge&logo=Redhat&logoColor=black" /><br>
 </div>
 <br>
 <br>
