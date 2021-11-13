@@ -74,8 +74,8 @@
          <br>
          <img src="https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=unix&logoColor=black" />
-         <img src="https://img.shields.io/badge/SunOS-FCC624?style=for-the-badge&logo=Sun&logoColor=black" />
-         <img src="https://img.shields.io/badge/Solaris-FCC624?style=for-the-badge&logo=Sun&logoColor=black" />
+         <img src="https://img.shields.io/badge/SunOS-FCC624?style=for-the-badge&logo=oracle&logoColor=black" />
+         <img src="https://img.shields.io/badge/Solaris-FCC624?style=for-the-badge&logo=oracle&logoColor=black" />
          <img src="https://img.shields.io/badge/HPuX-FCC624?style=for-the-badge&logo=hp&logoColor=black" />
          <img src="https://img.shields.io/badge/AIX-FCC624?style=for-the-badge&logo=ibm&logoColor=black" />
          <br>
