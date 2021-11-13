@@ -64,7 +64,7 @@
          <img src="https://img.shields.io/badge/Redhat-CB3837?style=for-the-badge&logo=Redhat&logoColor=black" />
          <img src="https://img.shields.io/badge/Ubuntu-FF6C37?style=for-the-badge&logo=Ubuntu&logoColor=black" />
          <img src="https://img.shields.io/badge/Kubernetes-FF6C37?style=for-the-badge&logo=Kubernetes&logoColor=black" />
-         <img src="https://img.shields.io/badge/Openshift-FF6C37?style=for-the-badge&logo=Openshift&logoColor=black" />
+         <img src="https://img.shields.io/badge/Openshift-FF6C37?style=for-the-badge&logo=redhat&logoColor=black" />
          <br>
 <br>
 </div>
