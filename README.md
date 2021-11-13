@@ -49,6 +49,7 @@
 <div align='left'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Databases</h2>
   <br>
+        <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Oracle-4EA94B?style=for-the-badge&logo=Oracle&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLServer-4EA94B?style=for-the-badge&logo=Microsoft&logoColor=white" />
