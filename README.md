@@ -20,10 +20,20 @@
     </a>&nbsp;&nbsp;
     --!>
 </div>
-
+<div align='left'>
+        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Automation</h2>
+  <br>
+        <img src="https://img.shields.io/badge/Ansible-4EA94B?style=for-the-badge&logo=redhat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Puppet-4EA94B?style=for-the-badge&logo=puppet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chef-4EA94B?style=for-the-badge&logo=chef&logoColor=white" />
+        <br>
+</div>
 <div align='left'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Languages and Tools </h2>
   <br>
+        <img src="https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Perl-4EA94B?style=for-the-badge&logo=perl&logoColor=white" />
+        <br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
