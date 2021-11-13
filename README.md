@@ -21,9 +21,9 @@
     --!>
 </div>
 <div align='left'>
-        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Automation</h2>
+        <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Automation </h2>
   <br>
-        <img src="https://img.shields.io/badge/Ansible-4EA94B?style=for-the-badge&logo=redhat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ansible-CB3837?style=for-the-badge&logo=redhat&logoColor=white" />
         <img src="https://img.shields.io/badge/Puppet-4EA94B?style=for-the-badge&logo=puppet&logoColor=white" />
         <img src="https://img.shields.io/badge/Chef-4EA94B?style=for-the-badge&logo=chef&logoColor=white" />
         <br>
