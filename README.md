@@ -66,6 +66,7 @@
          <br>
          <img src="https://img.shields.io/badge/Redhat-CB3837?style=for-the-badge&logo=Redhat&logoColor=black" />
          <img src="https://img.shields.io/badge/Openshift-FF6C37?style=for-the-badge&logo=redhat&logoColor=black" />
+         <img src="https://img.shields.io/badge/Satellite-FF6C37?style=for-the-badge&logo=redhat&logoColor=black" />
 <br>
 </div>
 <br>
