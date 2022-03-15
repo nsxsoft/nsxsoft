@@ -1,5 +1,5 @@
 
-<h1>NSXSOFT - IT Systems Engineer & Systems Developer</h1>
+<h1>NSXSOFT - IT Systems Specialist & Systems Developer</h1>
 <br>
 <div align='left' style='padding:1em;'>
     <a href="https://www.nsxsoft.com">
