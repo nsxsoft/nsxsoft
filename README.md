@@ -93,3 +93,4 @@
 <br>
 <br>
 <br>
+<a href="https://app.daily.dev/nsxsoft"><img src="https://api.daily.dev/devcards/ae9169298bd74780b627fc8b24875fcc.png?r=uoa" width="400" alt="Christian Bacon's Dev Card"/></a>
