@@ -1,5 +1,5 @@
 
-<h1>NSXSOFT - IT Systems Engineer / Unix Systems Engineer </h1>
+<h1>NSXSOFT - Computer Scientist / Unix Systems Engineer </h1>
 <br>
 <div align='left' style='padding:1em;'>
     <a href="https://www.nsxsoft.com">
